@@ -1,5 +1,5 @@
-#Thu Feb 02 12:15:01 CET 2017
-.datasources/ds-module.vt\:///SF1590B-V2/SF1590B-V2.pva\#0000000000/datasources=ds_-905841922_1485962613558_1827085412\nds_-905841922_1485958908250_129332891
+#Tue Feb 21 12:57:39 CET 2017
+.datasources/ds-module.vt\:///SF1590B-V2/SF1590B-V2.pva\#0000000000/datasources=ds_-905841922_1485958908250_129332891\nds_-905841922_1485962613558_1827085412
 .datasources/ds-module.vt\:///SF1590B-V2/SF1590B-V2.pva\#0000000000/ds_-905841922_1485958908250_129332891.break_on_empty_row=true
 .datasources/ds-module.vt\:///SF1590B-V2/SF1590B-V2.pva\#0000000000/ds_-905841922_1485958908250_129332891.closeconn=true
 .datasources/ds-module.vt\:///SF1590B-V2/SF1590B-V2.pva\#0000000000/ds_-905841922_1485958908250_129332891.first_row=0
@@ -39,28 +39,17 @@
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1484207504739_899338471.last_row=0
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1484207504739_899338471.last_row.internal=1
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1484207504739_899338471.name=Opret (Leverancefejl)
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1484207504739_899338471.prefix=NONE
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1484207504739_899338471.sheet=Opret - fejlkoder transponeret
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1484207504739_899338471.type=Excel
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1484207504739_899338471.use_all_rows=true
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1484207504739_899338471.xls_file=C\:\\Users\\Public\\workspace\\SF1590B-V2\\Datasources\\SF159BV2-Opret-testdata.xls
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.closeconn=true
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.first_row=0
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.first_row.internal=1
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.last_row=0
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.last_row.internal=1
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.name=Variable
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.prefix=NONE
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.sheet=Variable
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.type=Excel
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.use_all_rows=true
 .datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486025557125_500369784.xls_file=C\:\\Users\\Public\\workspace\\SF1590B-V2\\Datasources\\SF159BV2-Opret-testdata.xls
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486026810255_1977373408.closeconn=true
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486026810255_1977373408.first_row.internal=1
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486026810255_1977373408.last_row.internal=1
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486027045341_1969558808.closeconn=true
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486027045341_1969558808.first_row.internal=1
-.datasources/ds-module.wk\:///SF1590B-V2/Opret-leverancefejl.tst\#0000000000\#0000000002/ds_2107776841_1486027045341_1969558808.last_row.internal=1
 .datasources/ds-module.wk\:///SF1590B-V2/POC.tst\#0000000000\#0000000011\#0000000012\#0000000013/datasources=ds_2007867499_1481699794866_1609454751
 .datasources/ds-module.wk\:///SF1590B-V2/POC.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.first_row=0
 .datasources/ds-module.wk\:///SF1590B-V2/POC.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.last_row=0
