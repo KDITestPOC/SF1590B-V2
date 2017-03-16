@@ -33,7 +33,7 @@ Indeholder også EAN.</xs:documentation>
 		</xs:annotation>
 		<xs:simpleType>
 			<xs:restriction base="xs:string">
-				<xs:pattern value="^urn:oio:gln:[0-9]{13}$"/>
+				<xs:pattern value="urn:oio:gln:[0-9]{13}"/>
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:element>
