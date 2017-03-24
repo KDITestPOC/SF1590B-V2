@@ -1,14 +1,14 @@
 <ns1:Opret xmlns:ns1="urn:oio:kl:kdi:oir:1590_B_V2">
     <ns1:DebitorLeverancedataAfgivendeMyndighed>urn:oio:cvr-nr:29189889</ns1:DebitorLeverancedataAfgivendeMyndighed>
     <ns1:DebitorLeverancedataDebitoransvarligMyndighed>urn:oio:cvr-nr:29189889</ns1:DebitorLeverancedataDebitoransvarligMyndighed>
-    <ns1:DebitorLeverancedataAfgivendeITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns1:DebitorLeverancedataAfgivendeITSystem>
-    <ns1:DebitorLeverancedataTransaktionsID>dc63b234-801b-4375-9e53-ab994c182ed0</ns1:DebitorLeverancedataTransaktionsID>
-    <ns1:DebitorLeverancedataRegistreringstidspunkt>2017-03-16T13:15:17+01:00</ns1:DebitorLeverancedataRegistreringstidspunkt>
-    <ns1:DebitorLeverancedataAntalDebitorkonto>3</ns1:DebitorLeverancedataAntalDebitorkonto>
-    <ns1:DebitorLeverancedataAntalFordring>3</ns1:DebitorLeverancedataAntalFordring>
-    <ns1:DebitorLeverancedataAntalDelfordring>3</ns1:DebitorLeverancedataAntalDelfordring>
+    <ns1:DebitorLeverancedataAfgivendeITSystem>9bf32de8-fc4c-401d-9118-24f691633e5a</ns1:DebitorLeverancedataAfgivendeITSystem>
+    <ns1:DebitorLeverancedataTransaktionsID>32ca164a-0779-4b68-9f03-3d4d968500c8</ns1:DebitorLeverancedataTransaktionsID>
+    <ns1:DebitorLeverancedataRegistreringstidspunkt>2017-03-16T13:52:09+01:00</ns1:DebitorLeverancedataRegistreringstidspunkt>
+    <ns1:DebitorLeverancedataAntalDebitorkonto>2</ns1:DebitorLeverancedataAntalDebitorkonto>
+    <ns1:DebitorLeverancedataAntalFordring>2</ns1:DebitorLeverancedataAntalFordring>
+    <ns1:DebitorLeverancedataAntalDelfordring>2</ns1:DebitorLeverancedataAntalDelfordring>
     <ns1:Debitorkonto>
-     <ns1:DebitorkontoUnikIdentifikation>01fda1e9-35dc-498b-b6d7-29eaea19483a</ns1:DebitorkontoUnikIdentifikation>
+     <ns1:DebitorkontoUnikIdentifikation>29c019cf-c5af-4963-b924-459e3fc423aa</ns1:DebitorkontoUnikIdentifikation>
      <ns1:DebitorkontoFelter>
       <ns1:DebitorkontoType>cb34a169-2036-4301-98b8-c1bdc6f33c37</ns1:DebitorkontoType>
       <ns1:DebitorkontoOrganisatoriskReference>fbfaaaf9-42d4-43b9-b1bf-bf7fff5702a4</ns1:DebitorkontoOrganisatoriskReference>
@@ -22,8 +22,20 @@
        <ns1:JuridiskAnsvarligPartIDType>82f93186-6e12-41f3-8b74-e3f3957ec4b7</ns1:JuridiskAnsvarligPartIDType>
       </ns1:JuridiskAnsvarlig>
      </ns1:DebitorkontoFelter>
+     <ns1:JuridiskAnsvarligAlternativAdresse>
+      <ns1:JuridiskAnsvarligAlternativAdresseFraDato>2017-03-16</ns1:JuridiskAnsvarligAlternativAdresseFraDato>
+      <ns1:AdresseStruktur>
+       <ns1:AdresseFormatKode>unstructured</ns1:AdresseFormatKode>
+       <ns1:AdresseLinje>
+        <ns1:AdresselinjeTekst>En ustruktureret adresse</ns1:AdresselinjeTekst>
+       </ns1:AdresseLinje>
+      </ns1:AdresseStruktur>
+     </ns1:JuridiskAnsvarligAlternativAdresse>
+     <ns1:Ligestillingspartner>
+      <ns1:LigestillingspartnerNavn>TCD144BN - 1</ns1:LigestillingspartnerNavn>
+     </ns1:Ligestillingspartner>
      <ns1:Fordring>
-      <ns1:FordringUnikIdentifikation>832663da-5301-4a8a-9dc6-62541b14b3c1</ns1:FordringUnikIdentifikation>
+      <ns1:FordringUnikIdentifikation>14e8b7c7-d485-4cdb-bd63-388343bddf1e</ns1:FordringUnikIdentifikation>
       <ns1:FordringFelter>
        <ns1:FordringOprettetAfITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns1:FordringOprettetAfITSystem>
        <ns1:FordringOprettetDatoTid>2017-02-28T10:17:51+01:00</ns1:FordringOprettetDatoTid>
@@ -31,7 +43,7 @@
        <ns1:FordringOpkraevningStatus>Opkraev</ns1:FordringOpkraevningStatus>
       </ns1:FordringFelter>
       <ns1:Delfordring>
-       <ns1:DelfordringUnikIdentifikation>5b2adcd1-e459-4bd3-87ba-3f18b6e79c04</ns1:DelfordringUnikIdentifikation>
+       <ns1:DelfordringUnikIdentifikation>431bb51d-7a4f-4c93-be84-d1f17232657f</ns1:DelfordringUnikIdentifikation>
        <ns1:DelfordringFelter>
         <ns1:DelfordringType>175fc3be-a122-4ea6-be5b-559f3d33aeba</ns1:DelfordringType>
         <ns1:DelfordringOprettetAfITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns1:DelfordringOprettetAfITSystem>
@@ -45,7 +57,7 @@
      </ns1:Fordring>
     </ns1:Debitorkonto>
     <ns1:Debitorkonto>
-     <ns1:DebitorkontoUnikIdentifikation>9f69a059-7ced-4686-bee4-27f587eda0b9</ns1:DebitorkontoUnikIdentifikation>
+     <ns1:DebitorkontoUnikIdentifikation>47411f1a-d52b-4284-aca6-d15e09aaec34</ns1:DebitorkontoUnikIdentifikation>
      <ns1:DebitorkontoFelter>
       <ns1:DebitorkontoType>cb34a169-2036-4301-98b8-c1bdc6f33c37</ns1:DebitorkontoType>
       <ns1:DebitorkontoOrganisatoriskReference>fbfaaaf9-42d4-43b9-b1bf-bf7fff5702a4</ns1:DebitorkontoOrganisatoriskReference>
@@ -59,8 +71,11 @@
        <ns1:JuridiskAnsvarligPartIDType>82f93186-6e12-41f3-8b74-e3f3957ec4b7</ns1:JuridiskAnsvarligPartIDType>
       </ns1:JuridiskAnsvarlig>
      </ns1:DebitorkontoFelter>
+     <ns1:Ligestillingspartner>
+      <ns1:LigestillingspartnerNavn>TCD144BN - 2</ns1:LigestillingspartnerNavn>
+     </ns1:Ligestillingspartner>
      <ns1:Fordring>
-      <ns1:FordringUnikIdentifikation>074af0ba-69b5-434e-879d-bf73abf4bb11</ns1:FordringUnikIdentifikation>
+      <ns1:FordringUnikIdentifikation>b50b04e6-560f-4b01-b2ef-5fdb47409ee6</ns1:FordringUnikIdentifikation>
       <ns1:FordringFelter>
        <ns1:FordringOprettetAfITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns1:FordringOprettetAfITSystem>
        <ns1:FordringOprettetDatoTid>2016-11-30T08:22:57.874Z</ns1:FordringOprettetDatoTid>
@@ -68,7 +83,7 @@
        <ns1:FordringOpkraevningStatus>Opkraev</ns1:FordringOpkraevningStatus>
       </ns1:FordringFelter>
       <ns1:Delfordring>
-       <ns1:DelfordringUnikIdentifikation>adf78b37-2935-4984-8389-6be91d525187</ns1:DelfordringUnikIdentifikation>
+       <ns1:DelfordringUnikIdentifikation>292ae0e8-7081-4c42-9f09-2e7a3f7e2c5e</ns1:DelfordringUnikIdentifikation>
        <ns1:DelfordringFelter>
         <ns1:DelfordringType>175fc3be-a122-4ea6-be5b-559f3d33aeba</ns1:DelfordringType>
         <ns1:DelfordringOprettetAfITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns1:DelfordringOprettetAfITSystem>

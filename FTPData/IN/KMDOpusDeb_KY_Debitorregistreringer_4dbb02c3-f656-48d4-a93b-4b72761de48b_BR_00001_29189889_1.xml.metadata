@@ -1,0 +1,21 @@
+<ns2:FileMetadata xmlns:ns2="http://serviceplatformen.dk/xml/wsdl/soap11/SFTP/1/types">
+    <FileTransferUUID>f598f966-e440-4389-b728-00c94f686ef4</FileTransferUUID>
+    <FileDescriptor>
+        <FileName>KMDOpusDeb_KY_Debitorregistreringer_4dbb02c3-f656-48d4-a93b-4b72761de48b_BR_00001_29189889_1.xml</FileName>
+        <SizeInBytes>2327</SizeInBytes>
+        <Sender>opus_debitor</Sender>
+        <SendersFileId>Debitorregistrering - Forretnings-kvittering</SendersFileId>
+        <Recipients>Testtool02</Recipients>
+    </FileDescriptor>
+    <FileContentDescriptor>
+        <SFTPDynamicRoutingInfo xmlns:ns1="http://serviceplatformen.dk/xml/wsdl/soap11/SFTP/1/types">
+            <InfRef>SF1590_B_IF04</InfRef>
+            <SenderIt-system>ab22ec11-15d5-451e-ada6-afd6dcc1d848</SenderIt-system>
+            <SenderAuthority>urn:oio:cvr-nr:29189889</SenderAuthority>
+            <TransactionId>a0369f5b-cea5-1ed7-83ad-4b3f4cb0c14b</TransactionId>
+            <SenderTimestamp>2017-03-20T12:40:08Z</SenderTimestamp>
+            <RecipientIt-system>6cfc6b02-25c9-45b6-894a-6f1aab52c9e9</RecipientIt-system>
+            <RecipientAuthority>urn:oio:cvr-nr:29189889</RecipientAuthority>
+        </SFTPDynamicRoutingInfo>
+    </FileContentDescriptor>
+</ns2:FileMetadata>
