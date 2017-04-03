@@ -1,0 +1,78 @@
+
+POST /service/OIR/ModtagDebitorregistreringStraksleverance/1 HTTP/1.0
+Host: exttest.serviceplatformen.dk
+Content-Type: text/xml; charset=UTF-8
+Content-Length: 4524
+SOAPAction: ""
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <SOAP-ENV:Body>
+  <OpretRequestType xmlns="http://serviceplatformen.dk/xml/wsdl/soap11/OIR/ModtagDebitorregistreringStraksleverance/1/">
+   <ns1:AuthorityContext xmlns:ns1="http://serviceplatformen.dk/xml/schemas/AuthorityContext/1/">
+    <ns1:MunicipalityCVR>29189889</ns1:MunicipalityCVR>
+   </ns1:AuthorityContext>
+   <ns2:Opret xmlns:ns2="urn:oio:kl:kdi:oir:1590_B_V2">
+    <ns2:DebitorLeverancedataAfgivendeMyndighed>urn:oio:cvr-nr:29189889</ns2:DebitorLeverancedataAfgivendeMyndighed>
+    <ns2:DebitorLeverancedataDebitoransvarligMyndighed>urn:oio:cvr-nr:29189889</ns2:DebitorLeverancedataDebitoransvarligMyndighed>
+    <ns2:DebitorLeverancedataAfgivendeITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns2:DebitorLeverancedataAfgivendeITSystem>
+    <ns2:DebitorLeverancedataTransaktionsID>eabe4f93-857f-453e-21c5-97f7a15a59db</ns2:DebitorLeverancedataTransaktionsID>
+    <ns2:DebitorLeverancedataRegistreringstidspunkt>2017-02-27T10:00:17+01:00</ns2:DebitorLeverancedataRegistreringstidspunkt>
+    <ns2:DebitorLeverancedataAntalDebitorkonto>1</ns2:DebitorLeverancedataAntalDebitorkonto>
+    <ns2:DebitorLeverancedataAntalFordring>1</ns2:DebitorLeverancedataAntalFordring>
+    <ns2:DebitorLeverancedataAntalDelfordring>1</ns2:DebitorLeverancedataAntalDelfordring>
+    <ns2:Debitorkonto>
+     <ns2:DebitorkontoUnikIdentifikation>470889a1-0c21-067e-a077-22e6d8ffa7cb</ns2:DebitorkontoUnikIdentifikation>
+     <ns2:DebitorkontoFelter>
+      <ns2:DebitorkontoType>cb34a169-2036-4301-98b8-c1bdc6f33c37</ns2:DebitorkontoType>
+      <ns2:DebitorkontoOrganisatoriskReference>fbfaaaf9-42d4-43b9-b1bf-bf7fff5702a4</ns2:DebitorkontoOrganisatoriskReference>
+      <ns2:DebitorkontoOprettetAfITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns2:DebitorkontoOprettetAfITSystem>
+      <ns2:DebitorkontoDebitorkontoIdentifikation>0101010101-97395885</ns2:DebitorkontoDebitorkontoIdentifikation>
+      <ns2:DebitorkontoDebitorkontoIdentifikationType>8f7dff74-fc15-457b-9e0a-08a43860c7a4</ns2:DebitorkontoDebitorkontoIdentifikationType>
+      <ns2:DebitorkontoOprettetDatoTid>2017-02-27T10:00:17+01:00</ns2:DebitorkontoOprettetDatoTid>
+      <ns2:DebitorkontoFolsomhed>1d81c472-0808-44cc-963d-f5ef0170ae1d</ns2:DebitorkontoFolsomhed>
+      <ns2:JuridiskAnsvarlig>
+       <ns2:JuridiskAnsvarligPartID>0101650400</ns2:JuridiskAnsvarligPartID>
+       <ns2:JuridiskAnsvarligPartIDType>82f93186-6e12-41f3-8b74-e3f3957ec4b7</ns2:JuridiskAnsvarligPartIDType>
+      </ns2:JuridiskAnsvarlig>
+     </ns2:DebitorkontoFelter>
+     <ns2:Fordring>
+      <ns2:FordringUnikIdentifikation>1b27457e-4384-8148-aed5-f149d30bd3e5</ns2:FordringUnikIdentifikation>
+      <ns2:FordringFelter>
+       <ns2:FordringOprettetAfITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns2:FordringOprettetAfITSystem>
+       <ns2:FordringOprettetDatoTid>2017-02-28T10:17:51+01:00</ns2:FordringOprettetDatoTid>
+       <ns2:FordringForfaldsdato>2017-04-29</ns2:FordringForfaldsdato>
+       <ns2:FordringOpkraevningStatus>Opkraev</ns2:FordringOpkraevningStatus>
+      </ns2:FordringFelter>
+      <ns2:Delfordring>
+       <ns2:DelfordringUnikIdentifikation>a0f6e7bb-8dd6-f091-b5be-26b366af945b</ns2:DelfordringUnikIdentifikation>
+       <ns2:DelfordringFelter>
+        <ns2:DelfordringType>175fc3be-a122-4ea6-be5b-559f3d33aeba</ns2:DelfordringType>
+        <ns2:DelfordringOprettetAfITSystem>86210b35-6046-4a01-a51b-f9648080c7ba</ns2:DelfordringOprettetAfITSystem>
+        <ns2:DelfordringOprettetDatoTid>2016-09-28</ns2:DelfordringOprettetDatoTid>
+        <ns2:DelfordringBelob>1000</ns2:DelfordringBelob>
+        <ns2:DelfordringStiftelsesdato>2016-12-30</ns2:DelfordringStiftelsesdato>
+        <ns2:DelfordringPeriodeFra>2016-12-30</ns2:DelfordringPeriodeFra>
+        <ns2:DelfordringPeriodeTil>2017-08-07</ns2:DelfordringPeriodeTil>
+        <ns2:DelfordringFolsomhed>1d81c472-0808-44cc-963d-f5ef0170ae1d</ns2:DelfordringFolsomhed>
+        <ns2:Referencenogle>
+         <ns2:ReferencenogleType>b643296b-df8d-43a5-5ba4-c09483c2dbd5</ns2:ReferencenogleType>
+         <ns2:ReferencenogleVaerdi>e9e316c0-e3ce-1c81-d5d7-aaa41103e079</ns2:ReferencenogleVaerdi>
+        </ns2:Referencenogle>
+       </ns2:DelfordringFelter>
+      </ns2:Delfordring>
+     </ns2:Fordring>
+    </ns2:Debitorkonto>
+   </ns2:Opret>
+  </OpretRequestType>
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+HTTP/1.1 500 Internal Server Error
+Date: Fri, 31 Mar 2017 11:58:23 GMT
+Server: Apache-Coyote/1.1
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/xml;charset=UTF-8
+Content-Length: 774
+Connection: close
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Server</faultcode><faultstring>Server Error</faultstring><detail><ns5:ServiceplatformFault xmlns:ns5="http://serviceplatformen.dk/xml/schemas/ServiceplatformFault/1/" xmlns:ns4="http://serviceplatformen.dk/xml/wsdl/soap11/OIR/ModtagDebitorregistreringStraksleverance/1/" xmlns:ns3="urn:oio:kl:kdi:oir:1590_B_V2" xmlns:ns2="http://serviceplatformen.dk/xml/schemas/CallContext/1/" xmlns="http://serviceplatformen.dk/xml/schemas/AuthorityContext/1/"><ns5:ErrorList><ns5:Error><ns5:ErrorCode>InternalError</ns5:ErrorCode><ns5:ErrorText>Server Error</ns5:ErrorText></ns5:Error></ns5:ErrorList></ns5:ServiceplatformFault></detail></soap:Fault></soap:Body></soap:Envelope>
