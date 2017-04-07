@@ -1,4 +1,4 @@
-#Mon Apr 03 12:11:33 CEST 2017
+#Fri Apr 07 14:15:58 CEST 2017
 .datasources/ds-module.wk\:///SF1590B-V2/Batch.tst\#0000000000\#0000000002/datasources=ds_-1068427306_1489668045373_673551283
 .datasources/ds-module.wk\:///SF1590B-V2/Batch.tst\#0000000000\#0000000002/ds_-1068427306_1489668045373_673551283.first_row=0
 .datasources/ds-module.wk\:///SF1590B-V2/Batch.tst\#0000000000\#0000000002/ds_-1068427306_1489668045373_673551283.last_row=0
@@ -24,21 +24,21 @@
 .datasources/ds-module.wk\:///SF1590B-V2/Batch.tst\#0000000000\#0000000002/ds_-1068427306_1489668045373_673551283.table_rows_size=100
 .datasources/ds-module.wk\:///SF1590B-V2/Batch.tst\#0000000000\#0000000002/ds_-1068427306_1489668045373_673551283.type=Table
 .datasources/ds-module.wk\:///SF1590B-V2/Batch.tst\#0000000000\#0000000002/ds_-1068427306_1489668045373_673551283.use_all_rows=true
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/datasources=ds_1736830601_1488186488692_1210085667\nds_1736830601_1488790916218_760687207
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488186488692_1210085667.break_on_empty_row=true
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488186488692_1210085667.first_row=0
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488186488692_1210085667.last_row=0
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488186488692_1210085667.name=Opret - positive
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488186488692_1210085667.sheet=Positive struktur 2
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488186488692_1210085667.type=Excel
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488186488692_1210085667.use_all_rows=true
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488186488692_1210085667.xls_file=C\:\\Users\\Public\\workspace\\SF1590B-V2\\Datasources\\OpretRequests.xls
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488790916218_760687207.break_on_empty_row=true
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488790916218_760687207.first_row=0
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488790916218_760687207.last_row=0
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488790916218_760687207.name=Opret negative
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488790916218_760687207.sheet=Negative struktur 2
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488790916218_760687207.type=Excel
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488790916218_760687207.use_all_rows=true
-.datasources/ds-module.wk\:///SF1590B-V2/Opret.tst\#0000000000/ds_1736830601_1488790916218_760687207.xls_file=${project_loc\:SF1590B-V2}/Datasources/OpretRequests.xls
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/datasources=ds_1736830601_1488186488692_1210085667\nds_1736830601_1488790916218_760687207
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488186488692_1210085667.break_on_empty_row=true
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488186488692_1210085667.first_row=0
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488186488692_1210085667.last_row=0
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488186488692_1210085667.name=Opret - positive
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488186488692_1210085667.sheet=Positive struktur 2
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488186488692_1210085667.type=Excel
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488186488692_1210085667.use_all_rows=true
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488186488692_1210085667.xls_file=C\:\\Users\\Public\\workspace\\SF1590B-V2\\Datasources\\OpretRequests.xls
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488790916218_760687207.break_on_empty_row=true
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488790916218_760687207.first_row=0
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488790916218_760687207.last_row=0
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488790916218_760687207.name=Opret negative
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488790916218_760687207.sheet=Negative struktur 2
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488790916218_760687207.type=Excel
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488790916218_760687207.use_all_rows=true
+.datasources/ds-module.wk\:///SF1590B-V2/SF1590B.tst\#0000000000/ds_1736830601_1488790916218_760687207.xls_file=${project_loc\:SF1590B-V2}/Datasources/OpretRequests.xls
 project.path=/SF1590B-V2
