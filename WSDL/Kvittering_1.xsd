@@ -22,7 +22,8 @@
     <xsd:element name="TransportKvittering" type="tns:TransportKvitteringType"/>
     <xsd:complexType name="TransportKvitteringType">
         <xsd:sequence>
-            <xsd:element name="TransportValideringsKode" type="tns:TransportValideringsKodeType" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="TransportValideringsKode" type="tns:TransportValideringsKodeType" minOccurs="1"
+                         maxOccurs="1"/>
             <xsd:element name="Begrundelse" type="xsd:string" minOccurs="0" maxOccurs="1"/>
             <xsd:element name="FejlListe" type="tns:FejlListeType" minOccurs="0" maxOccurs="1"/>
         </xsd:sequence>
@@ -41,9 +42,11 @@
         </xsd:sequence>
     </xsd:complexType>
 
+    <xsd:element name="Forretningskvittering" type="tns:ForretningskvitteringType"/>
     <xsd:complexType name="ForretningskvitteringType">
         <xsd:sequence>
-            <xsd:element name="ForretningsValideringsKode" type="tns:ForretningsValideringsKodeType" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="ForretningsValideringsKode" type="tns:ForretningsValideringsKodeType" minOccurs="1"
+                         maxOccurs="1"/>
             <xsd:element name="Begrundelse" type="xsd:string" minOccurs="0" maxOccurs="1"/>
             <xsd:element name="FejlListe" type="tns:FejlListeType" minOccurs="0" maxOccurs="1"/>
         </xsd:sequence>
@@ -64,5 +67,4 @@
             <xsd:element name="TransportKvittering" type="tns:TransportKvitteringType" minOccurs="1" maxOccurs="1"/>
         </xsd:sequence>
     </xsd:complexType>
-
 </xsd:schema>

@@ -6,6 +6,7 @@
             targetNamespace="http://serviceplatformen.dk/xml/schemas/CallContext/1/">
 
     <xsd:element name="CallContext" type="tns:CallContextType"/>
+
     <xsd:complexType name="CallContextType">
         <xsd:all>
             <xsd:element ref="tns:OnBehalfOfUser" minOccurs="0" maxOccurs="1"/>

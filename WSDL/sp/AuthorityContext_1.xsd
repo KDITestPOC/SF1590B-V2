@@ -18,4 +18,5 @@
             <xsd:pattern value="[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]"/>
         </xsd:restriction>
     </xsd:simpleType>
+
 </xsd:schema>
